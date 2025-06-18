@@ -1,0 +1,8 @@
+C:\Users\Acer\Source\Repos\o-jogo-do-acertou-perdeu\O Jogo do acertou perdeu\O jogo do acertou perdeu 4.0\obj\Debug\O jogo do acertou perdeu 4.0.csproj.AssemblyReference.cache
+C:\Users\Acer\Source\Repos\o-jogo-do-acertou-perdeu\O Jogo do acertou perdeu\O jogo do acertou perdeu 4.0\obj\Debug\O jogo do acertou perdeu 4.0.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\o-jogo-do-acertou-perdeu\O Jogo do acertou perdeu\O jogo do acertou perdeu 4.0\bin\Debug\O jogo do acertou perdeu 4.0.exe.config
+C:\Users\Acer\Source\Repos\o-jogo-do-acertou-perdeu\O Jogo do acertou perdeu\O jogo do acertou perdeu 4.0\bin\Debug\O jogo do acertou perdeu 4.0.exe
+C:\Users\Acer\Source\Repos\o-jogo-do-acertou-perdeu\O Jogo do acertou perdeu\O jogo do acertou perdeu 4.0\bin\Debug\O jogo do acertou perdeu 4.0.pdb
+C:\Users\Acer\Source\Repos\o-jogo-do-acertou-perdeu\O Jogo do acertou perdeu\O jogo do acertou perdeu 4.0\obj\Debug\O jogo do acertou perdeu 4.0.exe
+C:\Users\Acer\Source\Repos\o-jogo-do-acertou-perdeu\O Jogo do acertou perdeu\O jogo do acertou perdeu 4.0\obj\Debug\O jogo do acertou perdeu 4.0.pdb
+C:\Users\Acer\Source\Repos\o-jogo-do-acertou-perdeu\O Jogo do acertou perdeu\O jogo do acertou perdeu 4.0\obj\Debug\O jogo do acertou perdeu 4.0.exe.config
