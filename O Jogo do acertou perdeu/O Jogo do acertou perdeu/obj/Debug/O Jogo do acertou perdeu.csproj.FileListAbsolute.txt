@@ -1,8 +1,0 @@
-C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O Jogo do acertou perdeu\obj\Debug\O Jogo do acertou perdeu.csproj.AssemblyReference.cache
-C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O Jogo do acertou perdeu\obj\Debug\O Jogo do acertou perdeu.csproj.SuggestedBindingRedirects.cache
-C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O Jogo do acertou perdeu\obj\Debug\O Jogo do acertou perdeu.csproj.CoreCompileInputs.cache
-C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O Jogo do acertou perdeu\bin\Debug\O Jogo do acertou perdeu.exe.config
-C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O Jogo do acertou perdeu\bin\Debug\O Jogo do acertou perdeu.exe
-C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O Jogo do acertou perdeu\bin\Debug\O Jogo do acertou perdeu.pdb
-C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O Jogo do acertou perdeu\obj\Debug\O Jogo do acertou perdeu.exe
-C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O Jogo do acertou perdeu\obj\Debug\O Jogo do acertou perdeu.pdb
