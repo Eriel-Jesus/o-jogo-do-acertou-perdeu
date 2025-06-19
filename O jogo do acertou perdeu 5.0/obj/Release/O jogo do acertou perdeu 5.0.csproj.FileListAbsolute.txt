@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O jogo do acertou perdeu 5.0\bin\Release\O jogo do acertou perdeu 5.0.exe.config
+C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O jogo do acertou perdeu 5.0\bin\Release\O jogo do acertou perdeu 5.0.exe
+C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O jogo do acertou perdeu 5.0\bin\Release\O jogo do acertou perdeu 5.0.pdb
+C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O jogo do acertou perdeu 5.0\obj\Release\O jogo do acertou perdeu 5.0.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O jogo do acertou perdeu 5.0\obj\Release\O jogo do acertou perdeu 5.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O jogo do acertou perdeu 5.0\obj\Release\O jogo do acertou perdeu 5.0.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O jogo do acertou perdeu 5.0\obj\Release\O jogo do acertou perdeu 5.0.exe
+C:\Users\aluno\source\repos\O Jogo do acertou perdeu\O jogo do acertou perdeu 5.0\obj\Release\O jogo do acertou perdeu 5.0.pdb

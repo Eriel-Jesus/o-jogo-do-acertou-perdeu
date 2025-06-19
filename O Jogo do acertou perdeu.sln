@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O Jogo do acertou perdeu 1.0", "..\..\..\Desktop\o-jogo-do-acertou-perdeu-main\o-jogo-do-acertou-perdeu-main\O Jogo do acertou perdeu\O Jogo do acertou perdeu\O Jogo do acertou perdeu 1.0.csproj", "{99C15EFB-CE29-47F0-B7E3-ADF9E034AC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O jogo do acertou perdeu 2.0", "..\..\..\Desktop\o-jogo-do-acertou-perdeu-main\o-jogo-do-acertou-perdeu-main\O Jogo do acertou perdeu\O jogo do acertou perdeu 2.0\O jogo do acertou perdeu 2.0.csproj", "{64051C1F-CF2C-4E36-AA82-AD0E59FB9DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O jogo do acertou perdeu 3.0", "..\..\..\Desktop\o-jogo-do-acertou-perdeu-main\o-jogo-do-acertou-perdeu-main\O Jogo do acertou perdeu\O jogo do acertou perdeu 3.0\O jogo do acertou perdeu 3.0.csproj", "{ED607FD6-CF9E-4017-8D79-B57BF1B8BD43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O jogo do acertou perdeu 4.0", "..\..\..\Desktop\o-jogo-do-acertou-perdeu-main\o-jogo-do-acertou-perdeu-main\O Jogo do acertou perdeu\O jogo do acertou perdeu 4.0\O jogo do acertou perdeu 4.0.csproj", "{1CB74EB7-5807-4695-B86E-1CDBCAE2B65D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O jogo do acertou perdeu 5.0", "O jogo do acertou perdeu 5.0\O jogo do acertou perdeu 5.0.csproj", "{2713C548-8151-472D-8958-35DFAEE3B4FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C15EFB-CE29-47F0-B7E3-ADF9E034AC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C15EFB-CE29-47F0-B7E3-ADF9E034AC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C15EFB-CE29-47F0-B7E3-ADF9E034AC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C15EFB-CE29-47F0-B7E3-ADF9E034AC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64051C1F-CF2C-4E36-AA82-AD0E59FB9DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64051C1F-CF2C-4E36-AA82-AD0E59FB9DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64051C1F-CF2C-4E36-AA82-AD0E59FB9DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64051C1F-CF2C-4E36-AA82-AD0E59FB9DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED607FD6-CF9E-4017-8D79-B57BF1B8BD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED607FD6-CF9E-4017-8D79-B57BF1B8BD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED607FD6-CF9E-4017-8D79-B57BF1B8BD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED607FD6-CF9E-4017-8D79-B57BF1B8BD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB74EB7-5807-4695-B86E-1CDBCAE2B65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB74EB7-5807-4695-B86E-1CDBCAE2B65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB74EB7-5807-4695-B86E-1CDBCAE2B65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB74EB7-5807-4695-B86E-1CDBCAE2B65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2713C548-8151-472D-8958-35DFAEE3B4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2713C548-8151-472D-8958-35DFAEE3B4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2713C548-8151-472D-8958-35DFAEE3B4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2713C548-8151-472D-8958-35DFAEE3B4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C09406D-E141-49AC-ABF3-D040BFAFAF5C}
+	EndGlobalSection
+EndGlobal
